@@ -1,0 +1,7 @@
+{
+  "name": "StudentGlow & Tech",
+  "description": "A premium affiliate showcase for student-focused skincare and tech devices, featuring AI-powered marketing copy generation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
